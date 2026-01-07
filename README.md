@@ -65,8 +65,8 @@ void loop() {
 
 | File name    | Name        | Description  |
 |--------------|-------------|--------------|
-| [screenshoot.py](https://github.com/nlimeres/footswitch-automator/variants/screenshoot.py)      |   Screenshoot   | Take a screenshoot by just pressing the pedal       |
-| [appswitcher.py](https://github.com/nlimeres/footswitch-automator/variants/appswitcher.py)       | App Switcher      | Switches to the most recent app just by running Cmd/Alt + Tab      |
+| [screenshoot.py](https://github.com/nlimeres/footswitch-automator/blob/main/variants/screenshoot.py)      |   Screenshoot   | Take a screenshoot by just pressing the pedal       |
+| [appswitcher.py](https://github.com/nlimeres/footswitch-automator/blob/main/variants/appswitcher.py)       | App Switcher      | Switches to the most recent app just by running Cmd/Alt + Tab      |
 
 Scheme:
 ```
